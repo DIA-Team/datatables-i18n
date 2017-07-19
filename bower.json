@@ -1,15 +1,16 @@
 {
   "name": "datatables-i18n",
-  "version": "1.0.1",
-  "description": "The i18n language files of the DataTables",
+  "version": "1.1.1",
+  "description": "The i18n language files of the DataTables - with german bugfix",
   "homepage": "https://github.com/Haixing-Hu/datatables-i18n",
   "authors": [
     "DataTables team",
-    "Haixing Hu"
+    "Haixing Hu",
+    "DIA Connecting Software GmbH & Co. KG"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Haixing-Hu/datatables-i18n.git"
+    "url": "git@github.com:DIAConnectiongSoftwareGmbH/datatables-i18n.git"
   },
   "main": [
     "i18n/af.lang",
